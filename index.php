@@ -1,0 +1,10 @@
+<?php require("./components/header.php") ?>
+<main>
+    <h1>Website em Desenvolvimento</h1>
+    <h2>Informações para contato:</h2>
+    <ul>
+        <li>E-mail: mojiano@mojiano.com.br</li>
+        <li>Telefone: (19) 3804-9656</li>
+    </ul>
+</main>
+<?php require("./components/footer.php") ?>
