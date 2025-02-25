@@ -4,7 +4,7 @@
     <h2>Informações para contato:</h2>
     <ul>
         <li>E-mail: mojiano@mojiano.com.br</li>
-        <li>Telefone: (19) 3804-9656</li>
+        <li>Telefone: (19) 3862-2684</li>
     </ul>
 </main>
 <?php require("./components/footer.php") ?>
