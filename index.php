@@ -4,7 +4,7 @@
     <h2>Informações para contato:</h2>
     <ul>
         <li>E-mail: mojiano@mojiano.com.br</li>
-        <li>Telefone: (19) 97112-7931 | (19) 3500-6900</li>
+        <li>Telefone: (19) 97112-7931</li>
     </ul>
 </main>
 <?php require("./components/footer.php") ?>
