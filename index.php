@@ -1,5 +1,6 @@
 <?php require("./components/header.php") ?>
 <main>
+    <img src="./assets/image/logo.png" >
     <h1>Website em Desenvolvimento</h1>
     <h2>Informações para contato:</h2>
     <ul>
