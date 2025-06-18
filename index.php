@@ -25,7 +25,7 @@
                 data-aos-delay="400"
                 data-aos-duration="700">
                 <p class="section-title"><span>SOBRE NÓS</span></p>
-                <h2>ESPECIALISTAS EM AÇO E <br>INSTALAÇÕES COMERCIAIS</h2>
+                <h2>ESPECIALISTAS EM MÓVEIS DE AÇO</h2>
             </div>
         </div>
         <div class="max-width">
@@ -37,11 +37,10 @@
                     data-aos-duration="500">
                     <p>Com uma equipe dedicada e vasta experiência, estamos prontos para transformar suas ideias em realidade, proporcionando ambientes comerciais eficientes e atraentes.</p>
                     <ul>
-                        <li><img src="./assets/image/check.png" alt="check">Armários, Arquivos e Caixa Postal</li>
-                        <li><img src="./assets/image/check.png" alt="check">Bibliotecas e Estantes Desmontáveis</li>
-                        <li><img src="./assets/image/check.png" alt="check">Roupeiros e Mapotecas</li>
-                        <li><img src="./assets/image/check.png" alt="check">Agropecuária, Comércio e Confecções</li>
-                        <li><img src="./assets/image/check.png" alt="check">Materiais de Construção e entre outros</li>
+                        <li><img src="./assets/image/check.png" alt="check">Armários e Arquivos</li>
+                        <li><img src="./assets/image/check.png" alt="check">Estantes Bibliotecas e Desmontáveis</li>
+                        <li><img src="./assets/image/check.png" alt="check">Roupeiros Vestiários</li>
+                        <li><img src="./assets/image/check.png" alt="check">Mapotecas e Porta Celulares</li>
                     </ul>
                 </div>
                 <div id="about_right">
