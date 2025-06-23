@@ -25,7 +25,7 @@
                 data-aos-delay="400"
                 data-aos-duration="700">
                 <p class="section-title"><span>SOBRE NÓS</span></p>
-                <h2>ESPECIALISTAS EM MÓVEIS DE AÇO</h2>
+                <h2>ESPECIALISTAS EM <br>MÓVEIS DE AÇO</h2>
             </div>
         </div>
         <div class="max-width">
